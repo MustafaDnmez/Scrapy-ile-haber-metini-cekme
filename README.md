@@ -8,18 +8,33 @@ gerçekleştirmemizi sağlıyor.
 
 Diğer bir özellik ise spiderleri dosya içinde çalıştırmak . mesela bir anaconda kullanıyorsanız bir spideri çalıştırmak için terminaldan scrapy crawl komutu ile çalıştırmanız gerekecekti ama benim yazdığım bu kodda anacondayi kulllanmada sadece dosyayı çalıştırdığınızda spider çalışır ve verileri çekecektir.
 
-kodlar cybercrawlın içindeki spiders dosyasındadır.
-Sonuç:
+kodlar cybercrawlın içindeki spiders dosyasındadır.  
+
+Çıktılar(json formatında):
 
 
 
-"link": "https://www.france24.com//en/tv-shows/tech-24/20210614-the-growing-threat-of-ransomware-attacks",
+"link": "https://www.france24.com//en/tv-shows/tech-24/20210614-the-growing-threat-of-ransomware-attacks",  
+
+
+
+
+
+
   "title": [
     "The growing threat of ransomware attacks"
-  ],
+  ], 
+  
+  
+     
   "Time": [
     "14/06/2021"
   ],
+  
+  
+  
+  
+    
   "contect": [
     "But first, 99 percent of our telecommunications now transit under our oceans, via underwater cables. Intelligence services around the world are increasingly using these cables to spy on other states, as the NSA allegedly did on German Chancellor Angela Merkel. We take a closer look.",
     "From a major gas pipeline to Florida city's water supply and one of the world's top meat producers, 2021 has seen a sharp rise in ",
