@@ -10,6 +10,9 @@ Diğer bir özellik ise spiderleri dosya içinde çalıştırmak . mesela bir an
 
 kodlar cybercrawlın içindeki spiders dosyasındadır.
 Sonuç:
+
+
+
 "link": "https://www.france24.com//en/tv-shows/tech-24/20210614-the-growing-threat-of-ransomware-attacks",
   "title": [
     "The growing threat of ransomware attacks"
