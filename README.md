@@ -7,3 +7,5 @@ oluyor veya farklı yöntemle urlleri bir yere kaydedip sonra ordan çekmemizi g
 gerçekleştirmemizi sağlıyor.
 
 Diğer bir özellik ise spiderleri dosya içinde çalıştırmak . mesela bir anaconda kullanıyorsanız bir spideri çalıştırmak için terminaldan scrapy crawl komutu ile çalıştırmanız gerekecekti ama benim yazdığım bu kodda anacondayi kulllanmada sadece dosyayı çalıştırdığınızda spider çalışır ve verileri çekecektir.
+
+kodlar cybercrawlın içindeki spiders dosyasındadır.
